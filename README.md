@@ -6,6 +6,9 @@
   <li>
     <img style="height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;JavaScript
   </li>
+  <li>
+    <img style="height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">&nbsp;&nbsp;R
+  </li>
 </ul>
 
 <!-- https://devicon.dev/ -->
