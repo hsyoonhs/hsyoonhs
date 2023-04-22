@@ -1,14 +1,4 @@
 ### ▶️ Currently learning...
-<ul>
-  <li>
-    <img style="height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;Python
-  </li>
-  <li>
-    <img style="height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;JavaScript
-  </li>
-  <li>
-    <img style="height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;R
-  </li>
-</ul>
-
-<!-- https://devicon.dev/ -->
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
